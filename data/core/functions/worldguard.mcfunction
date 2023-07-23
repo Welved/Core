@@ -1,0 +1,1 @@
+execute at @e[type=minecraft:armor_stand,name=Spawn,limit=1] run gamemode adventure @p[distance=..5]
