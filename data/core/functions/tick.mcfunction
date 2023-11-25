@@ -5,7 +5,7 @@ function core:warps/home
 #function core:sethome
 #function core:welcome
 #function core:can_break
-#function core:worldguard
+function core:worldguard
 function core:rank
 
 
