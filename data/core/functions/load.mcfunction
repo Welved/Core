@@ -6,5 +6,7 @@ gamerule doFireTick false
 gamerule doTraderSpawning false
 gamerule spectatorsGenerateChunks false
 gamerule doInsomnia false
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
 
 say Hello World!
