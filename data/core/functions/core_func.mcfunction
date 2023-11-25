@@ -1,0 +1,1 @@
+function core:core_func
