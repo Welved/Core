@@ -3,7 +3,7 @@
 function core:home
 #function core:can_break
 function core:spawn
-function core:worldguard
+#function core:worldguard
 function core:rank
 function core:border
 
